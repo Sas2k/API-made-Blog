@@ -19,19 +19,19 @@ Then create your post and put the body and send a request to
 #### Hello World
 
 ```http
-  GET /
+GET /
 ```
 
 #### Get all posts
 
 ```http
-  GET /posts
+GET /posts
 ```
 
 #### Get item
 
 ```http
-  GET /posts/get/${id}
+GET /posts/get/${id}
 ```
 
 | Parameter | Type       | Description                       |
